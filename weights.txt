@@ -1,0 +1,7 @@
+Alice : 40
+Bob : 70
+Charlie : 100
+Donald : 85
+Eric : 20
+Frank : 10
+Gertrude : 15
